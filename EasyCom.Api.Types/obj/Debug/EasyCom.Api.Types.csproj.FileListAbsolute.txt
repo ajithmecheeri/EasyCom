@@ -1,0 +1,4 @@
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Types\bin\Debug\EasyCom.Api.Types.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Types\bin\Debug\EasyCom.Api.Types.pdb
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Types\obj\Debug\EasyCom.Api.Types.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Types\obj\Debug\EasyCom.Api.Types.pdb

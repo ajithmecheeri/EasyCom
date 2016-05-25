@@ -1,0 +1,4 @@
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Repository.Interfaces\bin\Debug\EasyCom.Api.Repository.Interfaces.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Repository.Interfaces\bin\Debug\EasyCom.Api.Repository.Interfaces.pdb
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Repository.Interfaces\obj\Debug\EasyCom.Api.Repository.Interfaces.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Repository.Interfaces\obj\Debug\EasyCom.Api.Repository.Interfaces.pdb

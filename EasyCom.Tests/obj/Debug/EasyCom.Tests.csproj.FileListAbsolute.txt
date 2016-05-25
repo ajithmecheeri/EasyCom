@@ -1,0 +1,5 @@
+D:\Ajith\Lab\EasyShop\EasyCom.Tests\bin\Debug\EasyCom.Tests.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Tests\bin\Debug\EasyCom.Tests.pdb
+D:\Ajith\Lab\EasyShop\EasyCom.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Tests\obj\Debug\EasyCom.Tests.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Tests\obj\Debug\EasyCom.Tests.pdb

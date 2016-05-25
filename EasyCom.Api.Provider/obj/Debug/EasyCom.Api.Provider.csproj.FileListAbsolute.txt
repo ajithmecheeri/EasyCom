@@ -1,0 +1,4 @@
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Provider\bin\Debug\EasyCom.Api.Provider.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Provider\bin\Debug\EasyCom.Api.Provider.pdb
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Provider\obj\Debug\EasyCom.Api.Provider.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Api.Provider\obj\Debug\EasyCom.Api.Provider.pdb

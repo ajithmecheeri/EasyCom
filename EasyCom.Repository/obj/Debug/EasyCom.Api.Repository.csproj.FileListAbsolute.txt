@@ -1,0 +1,4 @@
+D:\Ajith\Lab\EasyShop\EasyCom.Repository\bin\Debug\EasyCom.Repository.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Repository\bin\Debug\EasyCom.Repository.pdb
+D:\Ajith\Lab\EasyShop\EasyCom.Repository\obj\Debug\EasyCom.Repository.dll
+D:\Ajith\Lab\EasyShop\EasyCom.Repository\obj\Debug\EasyCom.Repository.pdb
