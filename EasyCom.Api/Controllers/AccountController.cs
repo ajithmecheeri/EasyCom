@@ -19,7 +19,7 @@ using EasyCom.Api.Results;
 
 namespace EasyCom.Api.Controllers
 {
-    [Authorize]
+    
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController
     {

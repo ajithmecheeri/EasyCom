@@ -1,0 +1,4 @@
+D:\Projects\easyshop\EasyCom\EasyCom.Api.Types\bin\Release\EasyCom.Api.Types.dll
+D:\Projects\easyshop\EasyCom\EasyCom.Api.Types\bin\Release\EasyCom.Api.Types.pdb
+D:\Projects\easyshop\EasyCom\EasyCom.Api.Types\obj\Release\EasyCom.Api.Types.dll
+D:\Projects\easyshop\EasyCom\EasyCom.Api.Types\obj\Release\EasyCom.Api.Types.pdb

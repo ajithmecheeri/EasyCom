@@ -40,8 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Provider.cs" />
+    <Compile Include="ProductProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EasyCom.Api.Provider.Interfaces\EasyCom.Api.Provider.Interfaces.csproj">
+      <Project>{c81e683e-4184-49a1-9e7c-088d33879882}</Project>
+      <Name>EasyCom.Api.Provider.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EasyCom.Api.Repository.Interfaces\EasyCom.Api.Repository.Interfaces.csproj">
+      <Project>{fa2f9cb8-53c9-4ab2-a0a3-bceea3b7f024}</Project>
+      <Name>EasyCom.Api.Repository.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EasyCom.Api.Types\EasyCom.Api.Types.csproj">
+      <Project>{570988af-1ed7-4a33-8226-5369a3659607}</Project>
+      <Name>EasyCom.Api.Types</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

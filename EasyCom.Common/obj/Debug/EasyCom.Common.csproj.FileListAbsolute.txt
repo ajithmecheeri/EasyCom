@@ -1,4 +1,10 @@
-D:\Ajith\Lab\EasyShop\EasyCom.Common\bin\Debug\EasyCom.Common.dll
-D:\Ajith\Lab\EasyShop\EasyCom.Common\bin\Debug\EasyCom.Common.pdb
-D:\Ajith\Lab\EasyShop\EasyCom.Common\obj\Debug\EasyCom.Common.dll
-D:\Ajith\Lab\EasyShop\EasyCom.Common\obj\Debug\EasyCom.Common.pdb
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Common\bin\Debug\EasyCom.Common.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Common\bin\Debug\EasyCom.Common.pdb
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Common\obj\Debug\EasyCom.Common.csprojResolveAssemblyReference.cache
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Common\obj\Debug\EasyCom.Common.dll
+D:\Projects\easyshop\Code\EasyShop\EasyCom.Common\obj\Debug\EasyCom.Common.pdb
+D:\Projects\easyshop\EasyCom\EasyCom.Common\bin\Debug\EasyCom.Common.dll
+D:\Projects\easyshop\EasyCom\EasyCom.Common\bin\Debug\EasyCom.Common.pdb
+D:\Projects\easyshop\EasyCom\EasyCom.Common\obj\Debug\EasyCom.Common.dll
+D:\Projects\easyshop\EasyCom\EasyCom.Common\obj\Debug\EasyCom.Common.pdb
+D:\Projects\easyshop\EasyCom\EasyCom.Common\obj\Debug\EasyCom.Common.csprojResolveAssemblyReference.cache
